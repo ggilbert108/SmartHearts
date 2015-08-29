@@ -1,0 +1,6 @@
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\bin\Debug\SmartHearts.exe.config
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\bin\Debug\SmartHearts.exe
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\bin\Debug\SmartHearts.pdb
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\obj\Debug\SmartHearts.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\obj\Debug\SmartHearts.exe
+E:\Documents\GitHub\SmartHearts\SmartHearts\SmartHearts\obj\Debug\SmartHearts.pdb
